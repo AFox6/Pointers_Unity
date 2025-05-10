@@ -1,0 +1,17 @@
+{
+    "actions":
+    [
+        {
+            "text": "Hello again! \nI will now teach you another key feature: combining gems \nThe combined gems are more powerful than regular gems \nSo, how do we combine gems?",
+            "loc": "Loc1"
+        },
+        {
+            "text": "With --display-- nodes \nThey accept gems like gates, but unlike regular nodes, they can hold 2 gems at once \n By connecting two nodes to a display, you can see how it will combine \nAllow me to demonstrate",
+            "loc": "Loc2"
+        },
+        {
+            "text": "Did you see how the gems were combined into a new gem entirely? \nNow you try!",
+            "loc": "Loc2"
+        }
+    ]
+}

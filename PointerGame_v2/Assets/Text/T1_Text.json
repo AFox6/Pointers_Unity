@@ -1,0 +1,41 @@
+{
+    "actions":
+    [
+        {
+            "text": "Hello, I am J0-695-C \nBut you may call me JC \nAnd it is my mission to help you! \nLet's start with controls: \nYou can move your camera with $cam_controls$ \nTry it out!",
+            "loc": "Loc1"
+        },
+        {
+            "text": "Next, let me show you what *your* job is \nFollow me!",
+            "loc": "Loc1"
+        },
+        {
+            "text": "This is your current objective \nYou must get all the gems to satisfy the level objective",
+            "loc": "Loc2"
+        },
+        {
+            "text": "So, why get gems? \nHmm... \n... \nLet me see... \n... \nThat does not appear to be part of my dialogue-response system\n Anyway!",
+            "loc": "Loc1"
+        },
+        {
+            "text": "This is a node: \nThere are many types of nodes \nFor example, this is a --mine-- It produces gems",
+            "loc": "Loc3"
+        },
+        {
+            "text": "This is a --gate-- It accepts gems \nIt is your goal to get gems to charge the gates \nThe gate's battery will be charged ONLY when it has received the correct gem",
+            "loc": "Loc4"
+        },
+        {
+            "text": "So, how do we get gems to the gate? \nWith connections! \nYou can draw a connection with $connection_start$ on a node \nYou can end a connection by $connection_end$ on a different node",
+            "loc": "Loc1"
+        },
+        {
+            "text": "One last thing: \nYou can leave a level or reset it by clicking on the pause icon",
+            "loc": "Loc6"
+        },
+        {
+            "text": "Now try making a connection from the mine to the gate!",
+            "loc": "Loc1"
+        }
+    ]
+}

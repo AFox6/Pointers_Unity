@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06780644ad9b44dd894875be2a0bd327, type: 3}
+  m_Name: MineSprites
+  m_EditorClassIdentifier: 
+  metal: {fileID: -4574535678318772947, guid: 96b309d1169a14a699e4d07559d620e5, type: 3}
+  copper: {fileID: -2584456509561495208, guid: 96b309d1169a14a699e4d07559d620e5, type: 3}
+  wood: {fileID: -1447101817, guid: 96b309d1169a14a699e4d07559d620e5, type: 3}
+  forest: {fileID: 1527278467, guid: 96b309d1169a14a699e4d07559d620e5, type: 3}
+  iceBrick: {fileID: -7431904495123127652, guid: 3ce1454f1ac804663ac905d4c30c0792, type: 3}
+  redBrick: {fileID: 853711636, guid: 3ce1454f1ac804663ac905d4c30c0792, type: 3}
+  whiteBrick: {fileID: 515933358, guid: 3ce1454f1ac804663ac905d4c30c0792, type: 3}
+  gold: {fileID: -576965863, guid: 3ce1454f1ac804663ac905d4c30c0792, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ded6ba2f86c0b4283913fe25eca6c35e, type: 3}
+  m_Name: Copper Wall
+  m_EditorClassIdentifier: 
+  bottomLeftCornerSprite: {fileID: 1376056015, guid: 996cb39dd844141009e11afbff68d03c, type: 3}
+  bottomWallSprite: {fileID: 1566523356, guid: 996cb39dd844141009e11afbff68d03c, type: 3}
+  bottomRightCornerSprite: {fileID: -1095383169, guid: 996cb39dd844141009e11afbff68d03c, type: 3}
+  leftWallSprite: {fileID: -94352561, guid: 996cb39dd844141009e11afbff68d03c, type: 3}
+  rightWallSprite: {fileID: 1189312104, guid: 996cb39dd844141009e11afbff68d03c, type: 3}
+  topLeftCornerSprite: {fileID: -1293556873, guid: 996cb39dd844141009e11afbff68d03c, type: 3}
+  topRightCornerSprite: {fileID: -1347083795, guid: 996cb39dd844141009e11afbff68d03c, type: 3}
+  topWallSprite: {fileID: -1516406892, guid: 996cb39dd844141009e11afbff68d03c, type: 3}
+  wallPrefab: {fileID: 5808426121479086881, guid: 99d6a5016a56b40f4a5a93562bca8eb3, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06780644ad9b44dd894875be2a0bd327, type: 3}
+  m_Name: GateSprites
+  m_EditorClassIdentifier: 
+  metal: {fileID: 1629373330, guid: 96b309d1169a14a699e4d07559d620e5, type: 3}
+  copper: {fileID: 1737008103, guid: 96b309d1169a14a699e4d07559d620e5, type: 3}
+  wood: {fileID: -1203544850, guid: 96b309d1169a14a699e4d07559d620e5, type: 3}
+  forest: {fileID: 1329657636, guid: 96b309d1169a14a699e4d07559d620e5, type: 3}
+  iceBrick: {fileID: -1635781533, guid: 3ce1454f1ac804663ac905d4c30c0792, type: 3}
+  redBrick: {fileID: 567498567, guid: 3ce1454f1ac804663ac905d4c30c0792, type: 3}
+  whiteBrick: {fileID: -436200956, guid: 3ce1454f1ac804663ac905d4c30c0792, type: 3}
+  gold: {fileID: 1789883994, guid: 3ce1454f1ac804663ac905d4c30c0792, type: 3}

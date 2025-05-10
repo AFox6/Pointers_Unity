@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06780644ad9b44dd894875be2a0bd327, type: 3}
+  m_Name: DisplaySprites
+  m_EditorClassIdentifier: 
+  metal: {fileID: -551861365808625604, guid: 96b309d1169a14a699e4d07559d620e5, type: 3}
+  copper: {fileID: 6705574433613849790, guid: 96b309d1169a14a699e4d07559d620e5, type: 3}
+  wood: {fileID: -82171113, guid: 96b309d1169a14a699e4d07559d620e5, type: 3}
+  forest: {fileID: 389445324, guid: 96b309d1169a14a699e4d07559d620e5, type: 3}
+  iceBrick: {fileID: 1019142712, guid: 3ce1454f1ac804663ac905d4c30c0792, type: 3}
+  redBrick: {fileID: 61710397, guid: 3ce1454f1ac804663ac905d4c30c0792, type: 3}
+  whiteBrick: {fileID: 511506078, guid: 3ce1454f1ac804663ac905d4c30c0792, type: 3}
+  gold: {fileID: -307465662, guid: 3ce1454f1ac804663ac905d4c30c0792, type: 3}
